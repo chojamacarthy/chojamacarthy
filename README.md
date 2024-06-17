@@ -15,7 +15,7 @@ Here are some ideas to get you started
 -->
 
 
-I'm Choja, an aspiring Bioninformatician 🧪🧬 
+I'm Choja, a budding Bioninformatician 🧪🧬 
 
 I graduated from Queen Mary University of London with a Bachelor of Science in Medical Genetics and have extensive experience in managing oncology clinical trials and launching innovative pharmacuetical products into new territories. 
 
