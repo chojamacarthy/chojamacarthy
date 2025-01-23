@@ -17,7 +17,4 @@ Here are some ideas to get you started
 
 I'm Choja, a budding Bioninformatician 🧪🧬 
 
-I graduated from Queen Mary University of London with a Bachelor of Science in Medical Genetics and have extensive experience in managing oncology clinical trials and launching innovative pharmacuetical products into new territories. 
-
-I have since developed a passion for the application of data science in biomedical research and I'm currently getting my Masters in Cancer Genomics and Data Science aiming to apply these skills to real world research challenges that address patients needs.
 
